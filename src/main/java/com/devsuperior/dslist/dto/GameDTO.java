@@ -4,7 +4,6 @@ import com.devsuperior.dslist.entities.Game;
 import org.springframework.beans.BeanUtils;
 
 import java.util.Objects;
-import java.util.Optional;
 
 public class GameDTO {
 
