@@ -66,7 +66,7 @@ public class Game {
         this.score = score;
     }
 
-    public Integer getYear() {
+    public Integer getGameYear() {
         return year;
     }
 
